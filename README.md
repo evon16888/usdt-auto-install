@@ -1,0 +1,1 @@
+# usdt-auto-install
